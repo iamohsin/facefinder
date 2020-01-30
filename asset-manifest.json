@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/facefinder/static/css/main.5e41a273.chunk.css",
+    "main.js": "/facefinder/static/js/main.3f2dfca9.chunk.js",
+    "main.js.map": "/facefinder/static/js/main.3f2dfca9.chunk.js.map",
+    "runtime-main.js": "/facefinder/static/js/runtime-main.cee4f7ed.js",
+    "runtime-main.js.map": "/facefinder/static/js/runtime-main.cee4f7ed.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/facefinder/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.23cb24e7.chunk.js": "/facefinder/static/js/2.23cb24e7.chunk.js",
+    "static/js/2.23cb24e7.chunk.js.map": "/facefinder/static/js/2.23cb24e7.chunk.js.map",
+    "index.html": "/facefinder/index.html",
+    "precache-manifest.291338659f48fc23431edd9ac8dd8024.js": "/facefinder/precache-manifest.291338659f48fc23431edd9ac8dd8024.js",
+    "service-worker.js": "/facefinder/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/facefinder/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5e41a273.chunk.css.map": "/facefinder/static/css/main.5e41a273.chunk.css.map",
+    "static/js/2.23cb24e7.chunk.js.LICENSE": "/facefinder/static/js/2.23cb24e7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cee4f7ed.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.23cb24e7.chunk.js",
+    "static/css/main.5e41a273.chunk.css",
+    "static/js/main.3f2dfca9.chunk.js"
+  ]
+}
