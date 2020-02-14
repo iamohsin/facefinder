@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d61184fc725139f95e8bc91b9e8d2bcd",
+    "revision": "dc670a7b0987987028a94ed618a4726e",
     "url": "/facefinder/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/facefinder/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "1d57cedb2d43eeaa855f",
+    "revision": "41f1cff6e01136fb0133",
     "url": "/facefinder/static/css/main.5e41a273.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/facefinder/static/js/2.23cb24e7.chunk.js.LICENSE"
   },
   {
-    "revision": "1d57cedb2d43eeaa855f",
-    "url": "/facefinder/static/js/main.6dcc1af3.chunk.js"
+    "revision": "41f1cff6e01136fb0133",
+    "url": "/facefinder/static/js/main.b4b4efb3.chunk.js"
   },
   {
     "revision": "cb27efff2095d7f51cc1",
